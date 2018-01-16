@@ -1,0 +1,27 @@
+{
+  "name": "file-uploader-simple",
+  "version": "1.0.1",
+  "description": "Simple file uploader demo using NodeJS",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "Sambit Kumar Padhy",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.13.4",
+    "http": "0.0.0",
+    "multer": "^1.1.0",
+    "path": "^0.12.7"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Sambit567/File-Uploader-simple.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Sambit567/File-Uploader-simple/issues"
+  },
+  "homepage": "https://github.com/Sambit567/File-Uploader-simple#readme"
+}
